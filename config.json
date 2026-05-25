@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvave",
+        "uuid": 626934,
+        "checksum": "iaxt04"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
